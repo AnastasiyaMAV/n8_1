@@ -1,0 +1,15 @@
+.picture-size {
+    width: 50%;
+}
+
+.jumbotron-style {
+    border: 1em solid whitesmoke;
+    text-align: center;
+    background-color: white;
+}
+
+.footer-style {
+    text-align: center;
+    color: white;
+    height: 50px;
+}
